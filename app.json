@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Blackcoffer_Test-Assignment_app",
-    "slug": "Blackcoffer_Test-Assignment_app",
+    "name": "Test-Assignment_app",
+    "slug": "Test-Assignment_app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
